@@ -58,6 +58,9 @@ content: '\f06e';
 font-family: fontAwesome;
 }
 
+
+
+
 .box .inputBox #toggleBtn.hide::before{
     content: '\f070';
     font-family: fontAwesome;
